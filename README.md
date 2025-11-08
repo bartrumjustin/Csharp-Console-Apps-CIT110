@@ -1,5 +1,5 @@
-# CIT110
-<h3>Holds all the examples and projects I have done for my Associates Degree, specifically CIT110 C# programming</h3>
+# CIT110: Programming in C#
+<h1>Holds all the examples and projects I have done for my Associates Degree </h3>
 
 <h2>Chapter 1</h2>basic use of assigning types and console write lines with or without interpolation. 
 <br><a href="/Chapter1Ex1.cs"> Ex 1</a>
