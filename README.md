@@ -5,21 +5,21 @@
 <br><a href="/Chapter1Ex1.cs"> Ex 1</a>
 <br><a href="/Chapter1Ex2.cs"> Ex 2</a>
 <br>
-<h2>Chapter 2</h2>Using Console.ReadLine and also Converting or Parsing Types, with Ex 3 using switch statements.
+<h2>Chapter 2</h2>Console Input and Output
 <br>
 <a href="/Chapter2Ex1.cs"> Ex 1</a>
 <br>
 <a href="/Chapter2Ex2.cs"> Ex 2</a>
 <br>
 <a href="/Chapter2Ex3.cs"> Ex 3</a>
-<h2>Chapter 3</h2>IF() statement use and utilizing operands.
+<h2>Chapter 3</h2>Selection Structures and Boolean Expressions
 <br>
 <a href="/Chapter3Ex1.cs"> Ex 1</a>
 <br>
 <a href="/Chapter3Ex2.cs"> Ex 2</a>
 <br>
 <a href="/Chapter3Ex3.cs"> Ex 3</a>
-<h2>Chapter 4</h2>For, while and if else loops, object generation (random number method) and array use
+<h2>Chapter 4</h2>Repetition Structures
 <br>
 <a href="/Chapter4Ex1.cs"> Ex 1</a>
 <br>
@@ -28,21 +28,21 @@
 <a href="/Chapter4Ex3.cs"> Ex 3</a>
 <br>
 <a href="/Chapter4Ex4.cs"> Ex 4</a>
-<h2>Chapter 5</h2>method creating and calling, returning and access modifying.
+<h2>Chapter 5</h2>Static Methods, Scope, and Access Modifiers
 <br>
 <a href="/Chapter5Ex1.cs"> Ex 1</a>
 <br>
 <a href="/Chapter5Ex2.cs"> Ex 2</a>
 <br>
 <a href="/Chapter5Ex3.cs"> Ex 3</a>
-<h2>Chapter 6</h2>utilizing all previous lessons and also using arrays and lists to create functional programs
+<h2>Chapter 6</h2>Array, List, and ArrayList
 <br>
 <a href="/Chapter6Ex1.cs"> Ex 1</a>
 <br>
 <a href="/Chapter6Ex2.cs"> Ex 2</a>
 <br>
 <a href="/Chapter6Ex3.cs"> Ex 3</a>
-<h2>Chapter 7</h2>Type methods to validate inputs 
+<h2>Chapter 7</h2>Validation Methods and Math Methods
 <br>
 <a href="/Ch7MathMethods.cs"> Ex 1</a>
 <br>
