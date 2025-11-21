@@ -49,4 +49,11 @@
 <a href="/Ch7InputValidation.cs"> Ex 2</a>
 <br>
 <a href="/Chapter7PasswordValidationRevised.cs"> Ex 3</a>
+<h2>Chapter 8</h2>Value Types, Reference Types, Type Casting, and Memory Use 
+<br>
+<a href="/Chapter8Ex1.cs"> Ex 1</a>
+<br>
+<a href="/Chapter8Ex2.cs"> Ex 2</a>
+<br>
+<a href="/Chapter8Ex3.cs"> Ex 3</a>
 
