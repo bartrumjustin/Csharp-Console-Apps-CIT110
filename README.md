@@ -59,7 +59,7 @@
 <h2>Chapter 9</h2>Creating and Using Classes
 <hr>
 <p>A/B subsections are intended to be ran together</p>
-<br>
+
 <a href="/Ch9Ex1PrivateAccess.cs"> Ex 1</a>
 <br>
 <a href="/Ch9Ex2PublicAccess.cs"> Ex 2</a>
@@ -77,10 +77,10 @@
 <a href="/RiceKrispies.cs"> Ex 7a</a>
 <br>
 <a href="/Cereal.cs"> Ex 7b</a>
-<h2>Chapter 8</h2>Exception Handling</h2>
+<h2>Chapter 10</h2>Exception Handling</h2>
 <hr>
 <p>A/B subsections are stand alone programs</p>
-<br>
+
 <a href="/Ch10Ex1BMI.cs"> Ex 1</a>
 <br>
 <a href="/Ch10Ex2BankExceptionHandling.cs"> Ex 2</a>
